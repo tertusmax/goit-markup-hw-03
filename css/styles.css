@@ -240,3 +240,35 @@ ol {
 img {
   display: block;
 }
+.main-header {
+  display: flex;
+  align-items: center;
+}
+.main-nav {
+  display: flex;
+  align-items: center;
+  gap: 76px;
+}
+.nav-list {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+.contact-list {
+  display: flex;
+}
+.container {
+  width: 1470px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+.page-header-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+ul {
+  padding: 0px;
+}
