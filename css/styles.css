@@ -19,6 +19,7 @@ button {
 
   color: #4d5ae5;
   margin-right: 76px;
+  display: inline-block;
 }
 .nav-list-link:hover,
 .nav-list-link:focus {
@@ -130,6 +131,7 @@ button {
   letter-spacing: 0.02em;
 
   color: #f4f4fd;
+  max-width: 264px;
 }
 .modal-open-btn:hover,
 .modal-open-btn:focus {
@@ -307,4 +309,7 @@ ul {
 }
 .team-container {
   padding: 32px 16px;
+}
+.page-footer {
+  padding: 100px 0;
 }
