@@ -184,6 +184,10 @@ body {
   background: #4d5ae5;
   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
   border-radius: 4px;
+  display: block;
+  min-width: 169px;
+  height: 56px;
+  border: none;
 }
 .modal-open-button:hover,
 .modal-open-button:focus {
