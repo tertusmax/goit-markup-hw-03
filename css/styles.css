@@ -79,6 +79,7 @@ button {
   letter-spacing: 0.02em;
 
   color: #2e2f42;
+  margin-bottom: 8px;
 }
 .subtitle-main {
   font-family: "Roboto", sans-serif;
@@ -280,4 +281,7 @@ ul {
 }
 .section-main-advantages {
   padding: 120px 0;
+}
+.main-list-item {
+  width: calc((100% - 72px) / 4);
 }
