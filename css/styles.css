@@ -99,6 +99,7 @@ button {
   letter-spacing: 0.02em;
   text-transform: capitalize;
   color: #2e2f42;
+  margin-bottom: 72px;
 }
 .team-list-workers {
   font-family: "Roboto", sans-serif;
@@ -284,4 +285,10 @@ ul {
 }
 .main-list-item {
   width: calc((100% - 72px) / 4);
+}
+.project-list {
+  display: flex;
+}
+.section-project {
+  padding-bottom: 120px;
 }
