@@ -188,6 +188,8 @@ body {
   min-width: 169px;
   height: 56px;
   border: none;
+  margin-left: 160px;
+  margin-top: 48px;
 }
 .modal-open-button:hover,
 .modal-open-button:focus {
@@ -268,4 +270,7 @@ img {
 }
 ul {
   padding: 0px;
+}
+.busines-section-container {
+  padding: 0 331px 0 331px;
 }
