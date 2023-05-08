@@ -327,3 +327,11 @@ ul {
   display: inline-block;
   margin-bottom: 16px;
 }
+.button-list {
+  display: flex;
+  justify-content: center;
+}
+.section-main {
+  padding-top: 96px;
+  padding-bottom: 120px;
+}
