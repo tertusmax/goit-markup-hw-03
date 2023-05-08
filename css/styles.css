@@ -152,6 +152,7 @@ button {
   letter-spacing: 0.02em;
 
   color: #2e2f42;
+  margin-bottom: 8px;
 }
 .widget-list-text {
   font-family: "Roboto";
