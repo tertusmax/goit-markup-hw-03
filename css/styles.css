@@ -274,3 +274,10 @@ ul {
 .busines-section-container {
   padding: 0 331px 0 331px;
 }
+.main-list {
+  display: flex;
+  gap: 24px;
+}
+.section-main-advantages {
+  padding: 120px 0;
+}
