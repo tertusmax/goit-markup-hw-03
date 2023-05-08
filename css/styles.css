@@ -110,6 +110,7 @@ button {
   letter-spacing: 0.02em;
 
   color: #2e2f42;
+  margin-bottom: 8px;
 }
 .team-list-profession {
   font-family: "Roboto", sans-serif;
@@ -303,4 +304,7 @@ ul {
 .team-list-item {
   width: calc((100% - 72px) / 4);
   border-radius: 0px 0px 4px 4px;
+}
+.team-container {
+  padding: 32px 16px;
 }
