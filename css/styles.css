@@ -34,6 +34,8 @@ button {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #2e2f42;
+  padding-top: 24px;
+  padding-bottom: 24px;
 }
 .contacts-link {
   font-family: "Roboto", sans-serif;
@@ -273,7 +275,4 @@ img {
 }
 ul {
   padding: 0px;
-}
-.nav-list-item {
-  padding: 24px 0;
 }
