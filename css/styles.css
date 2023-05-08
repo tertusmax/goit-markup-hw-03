@@ -288,6 +288,7 @@ ul {
 }
 .project-list {
   display: flex;
+  gap: 24px;
 }
 .section-project {
   padding-bottom: 120px;
