@@ -245,6 +245,8 @@ img {
   display: flex;
   align-items: center;
   border-bottom: 1px solid #e7e9fc;
+  padding-bottom: 24px;
+  padding-top: 24px;
 }
 .main-nav {
   display: flex;
@@ -254,8 +256,6 @@ img {
   display: flex;
   align-items: center;
   gap: 40px;
-  padding-bottom: 24px;
-  padding-top: 24px;
 }
 .contact-list {
   display: flex;
